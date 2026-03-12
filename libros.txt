@@ -1,6 +1,4 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
-Noches blancas 
-Guerra y paz
-El extranjero Close #1
+Añadido 3 libros. Closes #1
